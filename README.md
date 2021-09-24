@@ -2,7 +2,7 @@
 Data engineering case.
 
 ## Setup used
-Python 3.7.11 
+Python 3.7.11  
 Spark 3.1.2 
 
     pip install -r requirements.txt
